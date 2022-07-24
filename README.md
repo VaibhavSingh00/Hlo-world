@@ -1,2 +1,2 @@
-# hlo-world
-fire up 
+# Hlo-world
+Let's get startd
